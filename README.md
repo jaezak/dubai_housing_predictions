@@ -20,7 +20,7 @@ Predicting housing prices in Dubai. We hope to use the dataset containing 80,000
 # ORDER OF OPERATIONS
 ## Data Retrieval and Preprocessing:
 * Retrieve the CSV.
-* Clean the data: drop amount column, filter out commercial properties. Bin square footage values.
+* Clean the data: drop "amount" and "transaction size" columns, filter out commercial properties. Bin square footage values.
 * Determine outliers such as large amount of bedrooms, high sale prices.
 * Normalize and standardize the data to ensure all features are on a similar scale. 
 
