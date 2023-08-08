@@ -2,8 +2,7 @@
 ## Project 4 Proposal
 
 * Our Data Source
-[https://www.kaggle.com/datasets/chicago/chicago-food-inspections?resource=download
-](https://www.kaggle.com/datasets/austinpowers/dubai-real-estate-transaction-first-semester-2023)
+(https://www.kaggle.com/datasets/austinpowers/dubai-real-estate-transaction-first-semester-2023)](https://www.kaggle.com/datasets/austinpowers/dubai-real-estate-transaction-first-semester-2023)
 Rows: 81k
 
 Columns: 22
