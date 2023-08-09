@@ -36,4 +36,5 @@ Predicting housing prices in Dubai. We hope to use the dataset containing 80,000
 
 ## Final Evaluation and Display:
 * Python script to print or display the overall model performance, including the accuracy report or R-squared.
-* Visualize the model's performance through plots / graphs
+* Visualize the model's performance through plots / graphs.
+* Slide deck for final presentation on Thursday, August 17.
