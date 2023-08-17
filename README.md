@@ -5,8 +5,6 @@
 (https://www.kaggle.com/datasets/austinpowers/dubai-real-estate-transaction-first-semester-2023)
 Rows: 81k
 
-Columns: 22
-
 * Our Group Members
   * Jae Zakarauskas
   * Joanna Gromek
@@ -15,6 +13,7 @@ Columns: 22
  
 Predicting housing prices in Dubai. We hope to use the dataset containing 80,000+ housing transactions dated January-June 2023 for Dubai, UAE. 
 
+Tableau Dashboard: https://jaezak.github.io/dubai_housing_predictions/
 
 # ORDER OF OPERATIONS
 ## Data Retrieval and Preprocessing:
