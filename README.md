@@ -17,9 +17,6 @@ Our primary objectives for this project include:
   * Joanna Gromek
   * Zunyan Guo
   * Peter Austin
- 
-
-Tableau Dashboard: https://jaezak.github.io/dubai_housing_predictions/
 
 # ORDER OF OPERATIONS
 ## Data Retrieval and Preprocessing:
